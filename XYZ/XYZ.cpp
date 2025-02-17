@@ -161,7 +161,7 @@ int main()
 {
     float ergebnis = berechnung();
 
-    cout << ergebnis;
+    cout << "das Ergebnis Lautet: " << endl  << "=============\n" << ergebnis << "\n=============";
 
 
     /*cout << "Diese Operanten wurden verwendet: \n";
